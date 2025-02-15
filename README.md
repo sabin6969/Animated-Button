@@ -1,25 +1,20 @@
-# AnimatedButton
+# 🚀 AnimatedButton  
 
-A customizable animated button for Flutter that smoothly transitions between a button and a loading indicator.
+A customizable animated button for Flutter that smoothly transitions between a button and a loading indicator.  
 
-## 📌 Features
+## 📌 Features  
 
-- **Animated transition** from a rectangular button to a circular loading indicator.
-- 🎨 **Customizable** properties:
-  - `isLoading` to toggle loading state.
-  - `onTap` callback for button press events.
-  - `buttonName` to set button text.
-  - `height` and `width` for button size.
-  - `color` for button background.
-  - `textStyle` for text customization.
-  - `radius` for border customization.
-  - `loadingIndicatorColor` to set the spinner color.
-- 🛠️ **Smooth animation** using `AnimationController`.
-- 🚫 **Disables interaction** when in the loading state.
+✅ **Smooth animation** from a rectangular button to a circular loading indicator.  
+🎨 **Fully customizable**: Button text, size, colors, and border radius.  
+🚫 **Disables interaction** while loading.  
 
-## 🚀 Installation
+| 🎬 **Demo** | 📝 **Details** |
+|------------|--------------|
+| ![Animated Button](https://github.com/user-attachments/assets/1f1d6aad-3778-41fb-bfc5-c6d348070890) | - `isLoading`: Toggle loading state. <br> - `onTap`: Button press event. <br> - `buttonName`: Set button text. <br> - `height` & `width`: Adjust size. <br> - `color`: Set background color. <br> - `textStyle`: Customize text. <br> - `radius`: Adjust border. <br> - `loadingIndicatorColor`: Set spinner color. |
 
-Add the package to your `pubspec.yaml`:
+## 🛠 Installation  
+
+Add the package to your `pubspec.yaml`:  
 
 ```yaml
 dependencies:
